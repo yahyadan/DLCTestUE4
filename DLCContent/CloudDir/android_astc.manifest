@@ -1,0 +1,14 @@
+{
+	"ClientVersion": "DLC1.0",
+	"BuildUrl": "DLC1.0/Android_ASTC",
+	"files": [
+		{
+			"filename": "DLCTest_DLCTestDLC1.0.manifest",
+			"uniqueFilename": "DLCTest_DLCTestDLC1.0.manifest",
+			"length": 1813,
+			"URL": "DLCTest_DLCTestDLC1.0.manifest",
+			"hash": "01F8DCD288096BDE9F29AF8DF05AA72547362827",
+			"hash256": "6C70CEDF6F6D8C0BB019B010C6CD5D18F3C9F9B88244C777E142B970DEEC0506"
+		}
+	]
+}
